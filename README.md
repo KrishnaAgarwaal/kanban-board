@@ -33,6 +33,12 @@ npm run dev
 
 3. Open [http://localhost:8080](http://localhost:8080) in your browser
 
+## Deployment
+
+- The application is deployed using Vercel.
+
+- https://kanban-board-liard-gamma.vercel.app/
+
 ## Available Scripts
 
 - `npm run dev` - Start development server
